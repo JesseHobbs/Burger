@@ -43,7 +43,7 @@ public class BurgerBounce : MonoBehaviour {
 								for (int i = 0; i < burgerInProgress.Length; i++) {
 										Destroy (burgerInProgress [i]);
 								}
-				ingredientsToBounce = 0;
+						
 								burgerInProgress = new GameObject[bc.maxSize + 2];
 								burgerIndex = 0;
 								GameObject spawned = Instantiate (bottomBun, spawnPoint.position, Quaternion.identity) as GameObject;

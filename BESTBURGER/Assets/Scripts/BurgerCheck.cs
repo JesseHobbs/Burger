@@ -137,9 +137,9 @@ public class BurgerCheck : MonoBehaviour {
 			// if too many mistakes
 			if(mistakes >= 2){
 				orderText = "NO!";
-				winLoss.Scoring();
 				foreach(GameObject e in an)
 				{
+
 					audio.clip = sfx[1];
 					if(playOnce){
 					audio.Play();
