@@ -1,6 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Documents\BESTBURGER\Assets\Scripts\BurgerBounce.cs">
+    <Files>
+      <File FileName="..\..\..\Documents\BESTBURGER\Assets\Scripts\BurgerBounce.cs" Line="39" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
